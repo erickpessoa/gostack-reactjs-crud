@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Novo Prato",
+      "price": "23,50",
+      "description": "Descrição do prato, editado para validar o funcionamento do API PUT",
+      "id": 4,
+      "available": true
     }
   ]
 }
